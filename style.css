@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+b{
+    font-size: 60px;
+    font-weight: bold;
+}
+p{
+    font-weight: 700;
+    font-size: 18px;
+}
+.skip{
+    color: orange;
+}
+.lorem{
+    font-weight: 300;
+}
+.flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+.width1{
+    width: 50%;
+    margin-left: 120px;
+    margin-top: 150px;
+}
+.width2{
+    width: 50%;
+}
+.width2 img{
+    width: 100%;
+}
+.about{
+    font-weight: 700;
+    font-size: 40px;
+}
+.btn{
+    background-image: linear-gradient(orange, red);
+    padding: 20px 40px;
+    margin-top: 30px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 40px;
+}
+.bhu{
+    width: 35%;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+.img{
+    width: 65%;
+}
+.vfrt{
+    margin-top: 150px;
+}
+.img img{
+    width: 40%;
+    margin-left: 200px;
+}
+.png{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+}
